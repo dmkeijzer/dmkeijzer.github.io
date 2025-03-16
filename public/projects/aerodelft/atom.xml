@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title> - AeroDelft</title>
+    <link rel="self" type="application/atom+xml" href="https://github.com/dmkeijzer/dmkeijzer.github.io/projects/aerodelft/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://github.com/dmkeijzer/dmkeijzer.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-07-01T00:00:00+00:00</updated>
+    <id>https://github.com/dmkeijzer/dmkeijzer.github.io/projects/aerodelft/atom.xml</id>
+    <entry xml:lang="en">
+        <title>VCU: Vehicle Control Unit for Hydrogen Aircraft</title>
+        <published>2024-07-01T00:00:00+00:00</published>
+        <updated>2024-07-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://github.com/dmkeijzer/dmkeijzer.github.io/profitable-project/"/>
+        <id>https://github.com/dmkeijzer/dmkeijzer.github.io/profitable-project/</id>
+        
+        <content type="html" xml:base="https://github.com/dmkeijzer/dmkeijzer.github.io/profitable-project/">&lt;p&gt;This project focused on creating an embedded Vehicle Control Unit (VCU) that orchestrates critical operations among multiple powertrain components—such as hydrogen fuel cells, batteries, and motor controllers—in a light aircraft.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Wrote C firmware to coordinate high-voltage power path control and sensor monitoring&lt;&#x2F;li&gt;
+&lt;li&gt;Integrated safety and diagnostic routines, including fault detection and system fallback modes&lt;&#x2F;li&gt;
+&lt;li&gt;Ensured software compliance with DO-178C requirements through rigorous testing and documentation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-i-learned&quot;&gt;What I Learned&lt;&#x2F;h2&gt;
+&lt;p&gt;I expanded my skills in embedded real-time control, safety-critical software development, and collaboration with regulatory authorities. This project also strengthened my understanding of hydrogen-based propulsion systems in aerospace applications.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>DICON: Diagnostic &amp; Control software for a fuel cell powertrain</title>
+        <published>2024-06-15T00:00:00+00:00</published>
+        <updated>2024-06-15T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://github.com/dmkeijzer/dmkeijzer.github.io/dicon/"/>
+        <id>https://github.com/dmkeijzer/dmkeijzer.github.io/dicon/</id>
+        
+        <content type="html" xml:base="https://github.com/dmkeijzer/dmkeijzer.github.io/dicon/">&lt;p&gt;This project involved creating a cross-platform application in Python (PySide&#x2F;Qt) that continuously monitors, logs, and manages a hydrogen fuel cell system and associated high-voltage components.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;responsibilities&quot;&gt;Responsibilities&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Built a GUI application for real-time data visualization and controls&lt;&#x2F;li&gt;
+&lt;li&gt;Integrated protocol handling for the BrightLoop converters, MS-100 fuel cell, and 100 V battery&lt;&#x2F;li&gt;
+&lt;li&gt;Implemented safety checks, diagnostics, and data logging for regulatory compliance&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;learning-experience&quot;&gt;Learning Experience&lt;&#x2F;h2&gt;
+&lt;p&gt;I strengthened my Python and Qt skills for creating robust desktop applications, and I gained hands-on experience with hydrogen fuel cell systems. Additionally, I learned how to handle multi-device communication and maintain high standards of reliability in an aerospace context.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
